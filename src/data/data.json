@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Social Art",
+        "paragraph": "“Your Art Can Speak For Itself. Now, Let It Be Social.”"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Social Art is a marketing company that specializes in the management of social media accounts for art galleries and studios all across the United States. We offer a vast array of tailored services that include (but are not limited to) daily posts on social media, website design, lead generation, and payment processing. Social Art’s goal is to foster engagements for art with anyone interested in the subject, from seasoned collectors to individuals looking to purchase their first piece. Our strategies and methods are proven to be both efficient and cost effective at helping galleries expand their reach on the internet. It’s time to bring the timelessness and prestige of the art world into the fast-paced realm of the 21st century. Your art speaks for itself, now let it be social.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -21,116 +21,86 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-share-alt",
+            "name": "Social Media Optimization",
+            "text": "Through years of experience on social media, whether for personal or business reasons, we have pinpointed the unique ways to grow a following using proven algorithms to hit the high traffic times for YOUR social media accounts. We want to help YOU engage in YOUR followers, so they do the same with YOU! We not only run your social media accounts, but we also turn YOUR socials into a viable and necessary part of your business. From finely tuned, and fully customizable marketing campaigns to increase online sales, to creative event roll outs to increase foot traffic, Social Art has the social media know-how to help bolster any business’s digital footprint through Social Media."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-list",
+            "name": "Lead Generation",
+            "text": "Using our very own proprietary software, we are able to create sales opportunities for YOU."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Sales and Growth Analytics",
+            "text": "With our fully customizable dashboard, we are able to relay up to date sales and growth numbers to subscribers. YOUR dashboard can be 100% tailored to YOUR needs as a business owner/ manager, and will become an essential part of YOUR long term success. Our dashboard will not only help YOU see areas of opportunity, but it will also provide intel on specific areas that can be improved upon to maximize every opportunity."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-globe",
+            "name": "Custom Web Design",
+            "text": "We get it, designing the perfect website can be hard. You probably know how YOU want it to look, feel, and function, but how do you accomplish this?Not to worry, Social Art will take care of all your needs. Just tell us what YOU want, and we will turn your dream website into reality."
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "SEO Management",
+            "text": "Ensuring that your business can be easily found online is often an overlooked part of creating a lasting digital footprint."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Round the Clock Support",
+            "text": "At Social Art, customer satisfaction is our number one priority. We maintain and manage YOUR accounts with us consistently throughout the day, but we know issues still arise. We strive to resolve any issues in an effective and efficient manner. If YOU have any questions or concerns, feel free to reach out to us, and we will reach back out within the business day."
         }
 
 
     ],
     "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/social/gall.JPG",
+            "text": "Working with Social Art has been such a benefit to Gallery500. The team helped us seamlessly transition our social media to their control. We increased not only digital followers & website hits, but also actual foot traffic in the gallery. I would recommend Social Art to any gallery or artist looking to increase their social presence.",
+            
+            "name": "Amber O'neal"
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/social/gift.JPG",
+            "text": "Social Art was a huge help in creating the G1fted Culture brand. From Logo and Graphic Design to even the smallest of Social Media and Website needs. They have been great to work with!",
+            "name": "Ahmad Barron"
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "img": "img/social/riley.jpg",
+            "name": "Riley Roberts",
+            "job": "Founder"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/social/das.jpg",
+            "name": "Dayton Steinmeyer",
+            "job": "Co-Founder"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        
+        "phone": "904-494-8472",
+        "email": "riley@socialartdigital.com",
+        "facebook": "fb.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Social Media Optimization",
+            "text": ""
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Custom Lead Generation",
+            "text": ""
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Sales and growth analytics",
+            "text": ""
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Website tailered to you",
+            "text": ""
         }
     ]
 }
