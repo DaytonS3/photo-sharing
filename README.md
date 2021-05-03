@@ -1,1 +1,1 @@
-# photo-sharing
+# Social Art
