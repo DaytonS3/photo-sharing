@@ -161,7 +161,7 @@ export class Par extends react.Component {
             fontSize: "24px",
             color: "white"
         }}
-        href="https://dazzling-yalow-c3167b.netlify.app/services">Services
+        href="http://www.socialartdigital.com//services">Services
         </a>
         <a style={{
             fontFamily: 'Commissioner',
