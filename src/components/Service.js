@@ -1,8 +1,8 @@
-import {Par} from '../components/particles'
+
 import "./service.css"
 import JsonData from '../data/data.json'
 import React from 'react'
-import ServicePop from './ServicePop'
+
 
 class Service extends React.Component {
 constructor(props){
