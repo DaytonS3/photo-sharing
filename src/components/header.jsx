@@ -27,7 +27,7 @@ class Header extends react.Component {
             fontSize: "24px",
             color: "white"
         }}
-        href="https://artgonesocial.com/services">Service</a>
+        href="http://localhost:3000/services">Service</a>
         <a style={{
             fontFamily: 'Commissioner',
             textDecoration:"none",

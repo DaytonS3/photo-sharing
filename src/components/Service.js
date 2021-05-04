@@ -51,12 +51,14 @@ render(){
         <div className='overlay'>
           <div className='container'>
             
-            <div className='row' >
+            <div className='row' style={{overflow: "hidden"}}>
+               <p style={{width: "70",cursor:"pointer", position: "absolute", zIndex:"1001", border: "2px solid white", borderRadius: "5px", fontFamily: "commisioner", marginTop: "10px", padding: "2px"}} onClick={this.handleBack}>BACK</p> 
             {this.state.card === false ? 
-            <div className='col-md-8 col-md-offset-2 intro-text' style={{height: "100vh"}}>
-                <p style={{cursor:"pointer"}} onClick={this.handleBack}>BACK</p>
-            <div style={{fontSize: "30px", color: "white"}}>
-                <p>Our Services</p>
+            <div className='col-md-8 col-md-offset-2 intro-text' style={{height: "100vh", width: "100%", margin: "0"}}>
+                
+            <div style={{fontSize: "30px", color: "white", marginTop: "10%"}}>
+                <p style={{fontFamily: "commissioner", fontWeight: "Bold", fontSize: "40px", letterSpacing: "10px"}}>Social Art At Your Service</p>
+                <p style={{fontFamily: "commissioner",  fontSize: "20px", letterSpacing: "6px"}}>Discover how WE can we can take your company to the next level</p>
                 <div className="serviceContainer">
                 {JsonData.Services
                 ? JsonData.Services.map((d, i) => (

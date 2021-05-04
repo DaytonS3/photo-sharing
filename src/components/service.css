@@ -1,16 +1,14 @@
 .serviceContainer {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
-  width: 100%;
 }
 
 .card {
   border-radius: 20px;
   padding: 10px;
-  height: 200px;
+  height: 250px;
   width: 200px;
-  margin: 20px;
+  margin: 10px;
   padding-top: 50px;
   background: linear-gradient(to right, #a85a01 0%, #530097 100%);
   color: #fff;
@@ -21,4 +19,6 @@
 
 .card:hover {
   opacity: 1;
+  transform: scale(1.1);
+  margin: 11px;
 }
