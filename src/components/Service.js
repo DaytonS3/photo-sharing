@@ -60,8 +60,10 @@ render(){
           <div  className='container'>
             
             <div  className='row' style={{overflow: "hidden"}}>
+                {this.state.card === false ? 
+                <div>
                <p style={{width: "70",cursor:"pointer", position: "absolute", zIndex:"1001", border: "2px solid white", borderRadius: "5px", fontFamily: "commisioner", marginTop: "10px", padding: "2px"}} onClick={this.handleBack}>BACK</p> 
-            {this.state.card === false ? 
+            
             <div className='col-md-8 col-md-offset-2 intro-text' style={{height: "100vh", width: "100%", margin: "0"}}>
                 
             <div style={{fontSize: "30px", color: "white", marginTop: "10%"}}>
@@ -84,8 +86,9 @@ render(){
             </div>
             
             </div>
+            </div>
             : <div className='col-md-8 col-md-offset-2 intro-text' style={{height: "100vh", width: "100%", }}>
-               <div style={{background: "black", opacity: "0.5", height: "70vh", width: "800px", borderRadius: "20px", textAlign: "left", padding: "20px"}}>
+               <div style={{background: "rgba(0, 0, 0, 0.5)", height: "70vh", width: "800px", borderRadius: "20px", textAlign: "left", padding: "20px"}}>
                
                {this.state.cardId ? 
                <div>
