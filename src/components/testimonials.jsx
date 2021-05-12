@@ -11,7 +11,7 @@ export const Testimonials = (props) => {
                 <div key={`${d.name}-${i}`} className='Tcard' style={{ boxShadow: "0 6px 10px 0 rgba(0,0,0,0.2)",
                 borderRadius: "10px",
                 transition: "0.3s",
-                width: "45%",
+                
                 textAlign: "center",
                 }}>
                   <div className='testimonial'>
