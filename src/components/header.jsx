@@ -12,36 +12,41 @@ class Header extends react.Component {
     <header id='header'>
       <div className='intro'>
         <div className='overlay'>
+          <div style={{overflow: "hidden"}}>
+              
+              <div>
+                <div style={{
+                  display: "flex",
+                  justifyContent: "space-evenly",
+                  color: "white"
+              }}>
+                <a style={{
+                    fontFamily: 'Commissioner',
+                    textDecoration:"none",
+                    fontSize: "24px",
+                    color: "white"
+                }}
+                href="https://artgonesocial.com/services"> Our Services</a>
+                <a style={{
+                    fontFamily: 'Commissioner',
+                    textDecoration:"none",
+                    fontSize: "24px",
+                    color: "white"
+                }}
+                href="#about">About Us</a>
+                <a style={{
+                    fontFamily: 'Commissioner',
+                    textDecoration:"none",
+                    fontSize: "24px",
+                    color: "white"
+                }}
+                href="#contact">Contact</a>  
+              </div>
           <div className='container'>
             
             <div className='row' >
-            <div>
-      <div style={{
-          display: "flex",
-          justifyContent: "space-evenly",
-          color: "white"
-      }}>
-        <a style={{
-            fontFamily: 'Commissioner',
-            textDecoration:"none",
-            fontSize: "24px",
-            color: "white"
-        }}
-        href="https://artgonesocial.com/services"> Our Services</a>
-        <a style={{
-            fontFamily: 'Commissioner',
-            textDecoration:"none",
-            fontSize: "24px",
-            color: "white"
-        }}
-        href="#about">About Us</a>
-        <a style={{
-            fontFamily: 'Commissioner',
-            textDecoration:"none",
-            fontSize: "24px",
-            color: "white"
-        }}
-        href="#contact">Contact</a>  
+            
+              
       </div>
       
       <div className='col-md-8 col-md-offset-2 intro-text's >

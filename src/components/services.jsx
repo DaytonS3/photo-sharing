@@ -15,10 +15,13 @@ export const Services = (props) => {
                     <h3>{d.name}</h3>
                     
                   </div>
+                  
                 </div>
               ))
             : 'loading'}
+            <a style={{cursor: "pointer", textDecoration: "none", color: "white", border: "1px solid white", padding: "5px", borderRadius: "5px"}} href="https://artgonesocial.com/services"> View Services</a>
         </div>
+        
       </div>
     </div>
   )

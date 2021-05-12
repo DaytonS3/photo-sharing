@@ -5,18 +5,15 @@ export const Testimonials = (props) => {
         <div className='section-title text-center'>
           <h2>Testimonies</h2>
         </div>
-        <div className='row' style={{
-          display: "flex",
-          justifyContent: "space-evenly"
-          }}>
+        <div className='row2'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-4' style={{width: "45%", boxShadow: "0 6px 10px 0 rgba(0,0,0,0.2)",
+                <div key={`${d.name}-${i}`} className='Tcard' style={{ boxShadow: "0 6px 10px 0 rgba(0,0,0,0.2)",
                 borderRadius: "10px",
                 transition: "0.3s",
                 width: "45%",
                 textAlign: "center",
-                padding: "50px"}}>
+                }}>
                   <div className='testimonial'>
                     <div className='testimonial-image'>
                       {' '}
